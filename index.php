@@ -17,7 +17,7 @@
   <div class="row">
     <div class="col l4 center s12">
       <h1>Welcome</h1>
-      <h4>Drone for industry 4.0</h4>
+      <h3>Drone for industry 4.0</h3>
       <br>
       <div><h2>1m</h2></div>
       <br>
